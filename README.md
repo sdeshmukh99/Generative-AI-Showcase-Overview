@@ -1,8 +1,11 @@
 # Generative AI Showcase - Overview
 
-Welcome to my **Generative AI Showcase** repository! This README.md provides an overview of my journey exploring the power of Generative AI and its applications in real-world scenarios. Here, you'll find brief descriptions of various AI-based projects focused on **text generation, sentiment analysis, speech recognition, multi-llm app** and more.
+Welcome to my Generative AI Showcase! Please read the last section to get access.
 
-Each project demonstrates hands-on work with different AI models and architectures, illustrating how GenAI can drive product innovation and problem-solving.
+This repository offers an overview of my journey in applying **Generative AI** to real-world scenarios, with projects spanning **text generation, sentiment analysis, speech recognition,** and **multi-LLM applications**.
+
+These showcases highlight my work in leveraging AI for practical solutions across fields like healthcare and finance, while building expertise in product and application development. For full access to the code and details, see the last section below.
+
 
 ### Featured Projects
 Here's a snapshot of the showcases included in my private repository. If you'd like to explore the full details of these projects, **please reach out to request access.**
@@ -18,8 +21,6 @@ Here's a snapshot of the showcases included in my private repository. If you'd l
 | Financial Data Insights with Automated SQL Generation | GPT-4, LangChain             | SQL query automation, Data insights |
 | [Multi-LLM Chat Interface with Dual Model Integration](https://huggingface.co/spaces/shantanu9/multi-llm-gradio-demo) - check out this public app | GPT-3.5, Gemini              | Conversational AI, Voice input integration |
 
-### Why these Showcases?
-My work reflects a journey of understanding the potential of Generative AI in various fields—from healthcare and finance to language processing. I’m continually building skills to leverage AI for creative problem-solving and real-world applications, while enhancing my expertise in product and application development.
 
 ### Requesting Access
 To view the full code and detailed implementations of these showcases, please reach out through one of the following methods:
