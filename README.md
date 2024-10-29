@@ -25,7 +25,7 @@ Here's a snapshot of the showcases included in my private repository. If you'd l
 ### Requesting Access
 To view the full code and detailed implementations of these showcases, please reach out through one of the following methods:
 
-1. **Direct Email Contact:** Email me directly at `shantanu dot deshmukh at gmail dot com` for access requests.
+1. **Direct Email Contact:** Email me directly at `shantanu [dot] deshmukh [at] gmail [dot] com` for access requests.
 
 2. **GitHub Discussions/Issues (Developers):** You can open a new [discussion](https://github.com/sdeshmukh99/Generative-AI-Showcase/discussions) or create an [issue](https://github.com/sdeshmukh99/Generative-AI-Showcase/issues) in this public repository to request access.
 
