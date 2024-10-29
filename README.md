@@ -16,7 +16,7 @@ Here's a snapshot of the showcases included in my private repository. If you'd l
 | Intent Classification with BERT                       | BERT                         | Intent classification, NLP        |
 | Spam Classification with Embedding Visualization      | Traditional NLP techniques   | Vectorization, Visualization      |
 | Financial Data Insights with Automated SQL Generation | GPT-4, LangChain             | SQL query automation, Data insights |
-| [Multi-LLM Chat Interface with Dual Model Integration](https://huggingface.co/spaces/shantanu9/multi-llm-gradio-demo)  | GPT-3.5, Gemini              | Conversational AI, Voice input integration |
+| [Multi-LLM Chat Interface with Dual Model Integration](https://huggingface.co/spaces/shantanu9/multi-llm-gradio-demo) - check out this public app | GPT-3.5, Gemini              | Conversational AI, Voice input integration |
 
 ### Why Generative AI?
 My work reflects a journey of understanding the potential of Generative AI in various fields—from healthcare and finance to language processing. I’m continually building skills to leverage AI for creative problem-solving and real-world applications, while enhancing my expertise in product and application development.
