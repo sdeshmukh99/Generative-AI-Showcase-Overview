@@ -20,6 +20,8 @@ Here's a snapshot of the showcases included in my private repository. If you'd l
 | Spam Classification with Embedding Visualization      | Traditional NLP techniques   | Vectorization, Visualization      |
 | Financial Data Insights with Automated SQL Generation | GPT-4, LangChain             | SQL query automation, Data insights |
 | [Multi-LLM Chat Interface with Dual Model Integration](https://huggingface.co/spaces/shantanu9/multi-llm-gradio-demo) - check out this public app | GPT-3.5, Gemini              | Conversational AI, Voice input integration |
+| [Medicare Appeals Guidance with RAG and Role-Based Access](https://huggingface.co/spaces/shantanu9/Appeal_IQ_2.0) | GPT-3.5, FAISS, HuggingFace all-MiniLM-L6-v2 | Retrieval-Augmented Generation, Role-Based Access Control, Document Embedding |
+
 
 
 ### Requesting Access
